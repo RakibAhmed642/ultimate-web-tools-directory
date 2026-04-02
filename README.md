@@ -177,7 +177,11 @@ Send and receive **fast, borderless digital payments** using cryptocurrency — 
 
 ### 🔐 CryptaSend — Crypto Payment & Transaction Platform
 
-<br/>
+<a href="https://cryptasend.site" target="_blank">
+  <img src="https://files.catbox.moe/92dya4.png" alt="CryptaSend - Secure Crypto Payment and Transaction Platform Online 2025" width="100%" />
+</a>
+
+<br/><br/>
 
 | | |
 |---|---|
