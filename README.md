@@ -138,6 +138,17 @@ A one-stop destination for **handy online utilities** — convert, analyze, gene
 
 ---
 
+### FollowerKaufen.at — Free Growth Planning Calculator
+
+| | |
+|---|---|
+| 🌐 **Website** | [Follower growth calculator](https://followerkaufen.at/tools/follower-growth) |
+| 💡 **Best For** | German-speaking creators and marketers planning a follower-count goal |
+| ✅ **Top Features** | Net difference · Daily and weekly averages · Browser-local calculation · No account |
+| 💰 **Pricing** | Free calculator; the parent site separately offers paid social-media services |
+
+The interface is German. This is a mathematical plan, not a forecast of platform recommendations, customers, or sales.
+
 ## 👨‍👩‍👧 Family Tools
 
 > **Keywords:** family organizer app · household management tool · family planner online · shared family calendar · family task manager · best family app 2025 · family sync app · free family organization tool
