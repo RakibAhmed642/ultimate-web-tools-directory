@@ -136,6 +136,17 @@ A one-stop destination for **handy online utilities** — convert, analyze, gene
 
 <br/>
 
+### 🏠 Roof Cost Data — Roof Replacement Cost Calculator
+
+| | |
+|---|---|
+| 🌐 **Website** | [roofcostdata.com](https://roofcostdata.com/roof-replacement-cost-calculator) |
+| 💡 **Best For** | U.S. homeowners planning a roof replacement budget |
+| ✅ **Top Features** | Roof size · Material · Location · Tear-off choice |
+| 💰 **Pricing** | Free |
+
+<br/>
+
 ---
 
 ## 👨‍👩‍👧 Family Tools
